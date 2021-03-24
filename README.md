@@ -1,5 +1,5 @@
 ## 👋  Hi, I’m Duncan Heffron (@duncanheffron)
-- 🥳  I'm 23 years old
+- 🥳  I'm `23` years old
 - 🇳🇱  Live in the Netherlands
 - 👀  I’m interested in web development
 - 🌱  I’m currently learning new ways to improve my code
