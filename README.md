@@ -1,5 +1,5 @@
 ## 👋   Hi, I’m Duncan Heffron (@duncanheffron)
-- Level `25` 🥳
+- Level `26` 🥳
 - Live in the Netherlands 🇳🇱
 - I’m interested in web development 👀
 - I’m currently learning new ways to improve my code 🌱
